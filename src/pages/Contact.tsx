@@ -21,12 +21,6 @@ const Contact: React.FC = () => {
     },
     {
       icon: <MapPin size={24} className="text-cyan-600" />,
-      title: 'LinkedIn',
-      details: 'Nairobi, Kenya',
-      link: "https://www.linkedin.com/in/brian-obware-68733b259/",
-    },
-    {
-      icon: <MapPin size={24} className="text-cyan-600" />,
       title: 'Location',
       details: 'Nairobi, Kenya',
       link: null,
